@@ -1,3 +1,6 @@
+# Getting Started with Both table Screenshot
+<img width="959" alt="image" src="https://github.com/shadabsaifi751/wine-statistics/assets/70463668/47cebc3a-2401-4bab-9a53-fa85b365d067">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
